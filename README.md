@@ -1,4 +1,5 @@
-# **Heyoo! Welcome to my Git gide**
+# **Welcome to Git!**
 
 - Yo, Johnny here!
+- This is comming from `dev-chris`.
 - I´m adding this from `feature-branch`.
